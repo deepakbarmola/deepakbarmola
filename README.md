@@ -1,5 +1,5 @@
 <p>
-<h1 align="center">Hi  I'm Deepak Barmola :wave: <h1>
+<h1 align="center">Hello there! :wave: <h1>
 </p> 
  
  🧍How to reach me:
